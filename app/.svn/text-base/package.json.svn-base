@@ -1,9 +1,0 @@
-{
-  "name": "simple-editor",
-  "description": "Loads static HTML into a web browser for to allow editing & saving by non-technical editors",
-  "version": "0.0.1",
-  "private": true,
-  "dependencies": {
-    "express": "3.4.4"
-  }
-}
